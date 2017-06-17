@@ -12,13 +12,13 @@ Zaliczenie z przedmitu kwz, komputerowe wspomaganie zarządzaniem
 
 Program wczytuje dane z pliku w postaci:
 in:
-  - Pierwsza linia zawiera N liczbe zadan i M liczbe polaczen.
-  - W drugiej linii jest N czasow trwania kolejnych zadan.
-  - Trzecia linia zawiera M zaleznosci miedzy zadaniami.
+- Pierwsza linia zawiera N liczbe zadan i M liczbe polaczen.
+- W drugiej linii jest N czasow trwania kolejnych zadan.
+- Trzecia linia zawiera M zaleznosci miedzy zadaniami.
 out:
-  - Calkowity czas projektu.
-  - Najwczesniejsze i najpozniejsze starty i zakonczenia.
-  - Sciezka krytyczna.
+- Calkowity czas projektu.
+- Najwczesniejsze i najpozniejsze starty i zakonczenia.
+- Sciezka krytyczna.
 
 ### Contribution guidelines ###
 
